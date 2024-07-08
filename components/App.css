@@ -1,0 +1,9 @@
+p {
+  padding: 1em;
+  margin: 1em;
+}
+
+.loading {
+  background: rgb(247, 247, 91);
+  text-align: center;
+}
