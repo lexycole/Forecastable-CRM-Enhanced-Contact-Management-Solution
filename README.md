@@ -14,3 +14,6 @@ CRM that hold data grid component displaying the list of customer contacts.
 - Customizable Columns
 - Export Functionality
 - Real-Time Updates
+
+## Pages
+![Screenshot (12620)](https://github.com/lexycole/Enhanced-Contact-Management-Solution/assets/40228505/3fd9c300-8000-413d-bedb-3017c8d5bdd3)
